@@ -19,7 +19,7 @@ git clone https://github.com/Granitosaurus/terminal-brackets
 cd terminal-brackets/examples
 terminal-brackets round1.json round2.json round3.json
 ```
-![screenshot](http://github.com/granitosaurus/terminal-brackets/screen.png)
+![screenshot](https://raw.githubusercontent.com/Granitosaurus/terminal-bracket/master/screen.png)
 
 ## Installation
 Just do a 
